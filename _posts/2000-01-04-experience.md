@@ -9,7 +9,7 @@ fa-icon: graduation-cap
 
 ###2014
 
-###Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
+####Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
 
 ###2013
 
@@ -17,8 +17,8 @@ fa-icon: graduation-cap
 
 ###2012
 
-Graduated with Honor from **Liberty University** with a bachelor's degree in **Mathematics**
+####Graduated with Honor from **Liberty University** with a bachelor's degree in **Mathematics**
 
 ###2011
 
-Business analyst intern at [**State Farm**](https://www.statefarm.com/)
+####Business analyst intern at [**State Farm**](https://www.statefarm.com/)
