@@ -8,9 +8,11 @@ fa-icon: graduation-cap
 # Experience
 
 ###2014
+
 ###Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
 
 ###2013
+
 Data analyst intern at [**Airline Reporting Corporation(ARC)**](https://www.arccorp.com/index.jsp)
 
 ###2012
