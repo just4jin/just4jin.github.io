@@ -9,7 +9,7 @@ fa-icon: briefcase
 
 ###2015
 
-####Research Assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
+####Research assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
 
 ###2014
 
@@ -29,7 +29,7 @@ fa-icon: briefcase
 
 ###2010
 
-####Office Manager at [**Liberty University Student Care**](http://www.liberty.edu/studentaffairs/studentcare/)
+####Office manager at [**Liberty University Student Care**](http://www.liberty.edu/studentaffairs/studentcare/)
 
 ###2009
 
