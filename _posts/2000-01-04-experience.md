@@ -33,7 +33,7 @@ fa-icon: briefcase
 
 ###2009
 
-####Started my exciting journey at [**Liberty University**](http://www.liberty.edu/)
+####Started an exciting journey from [**Liberty University**](http://www.liberty.edu/)
 
 ###2008
 
