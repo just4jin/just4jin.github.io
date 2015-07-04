@@ -22,6 +22,7 @@ fa-icon: briefcase
 ###2012
 
 ####Graduated with Honor from **Liberty University** with a bachelor's degree in **Mathematics**
+####Enrolled in [**Systems and Information Engineering at University of Virginia**](http://www.sys.virginia.edu/)
 
 ###2011
 
@@ -33,7 +34,7 @@ fa-icon: briefcase
 
 ###2009
 
-####Started an exciting journey from [**Liberty University**](http://www.liberty.edu/)
+####Began an exciting journey at [**Liberty University**](http://www.liberty.edu/)
 
 ###2008
 
