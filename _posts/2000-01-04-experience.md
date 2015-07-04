@@ -21,7 +21,7 @@ fa-icon: briefcase
 
 ###2012
 
-####Enrolled in [**Systems and Information Engineering (SIE)**](http://www.sys.virginia.edu/) at [**University of Virginia**](http://www.virginia.edu/)
+####Teaching Assistant at [**Systems and Information Engineering (SIE)**](http://www.sys.virginia.edu/) at [**University of Virginia**](http://www.virginia.edu/)
 
 ####Graduated with Honor from **Liberty University** with a bachelor's degree in [**Mathematics**](http://www.liberty.edu/academics/arts-sciences/math/)
 
