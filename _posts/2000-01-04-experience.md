@@ -7,6 +7,10 @@ fa-icon: briefcase
 
 # Experience
 
+###2015
+
+####Research Assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
+
 ###2014
 
 ####Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
