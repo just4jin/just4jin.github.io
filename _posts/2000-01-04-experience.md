@@ -26,3 +26,15 @@ fa-icon: briefcase
 ###2011
 
 ####Business analyst intern at [**State Farm**](https://www.statefarm.com/)
+
+###2010
+
+####Office Manager at [**Liberty University Student Care**](http://www.liberty.edu/studentaffairs/studentcare/)
+
+###2009
+
+####Started my exciting journey at [**Liberty University**](http://www.liberty.edu/)
+
+###2008
+
+####International trade intern at [**State Grid Corporation of China (SGCC)**](http://www.sgcc.com.cn/ywlm/index.shtml)
