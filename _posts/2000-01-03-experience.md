@@ -7,9 +7,8 @@ fa-icon: briefcase
 
 #Experience
 
-
 ###2015
-
+####Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
 ####Research assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
 
 ###2014
