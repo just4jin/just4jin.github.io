@@ -37,7 +37,7 @@ fa-icon: briefcase
 
 ###2009
 
-####Began an exciting journey at [**Liberty University**](http://www.liberty.edu/)
+####Math tutor at [**Liberty University**](http://www.liberty.edu/)
 
 ###2008
 
