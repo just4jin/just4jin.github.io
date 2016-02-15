@@ -4,8 +4,8 @@
  color: black
  fa-icon: pencil
  ---
- -
- #Work & Research Interests
+ 
+#Work & Research Interests
  
  Jin is a Data Scientist at [**Federal Aviation Administration (FAA) Air Traffic Organization (ATO)**](http://www.faa.gov/) via [**GRA, Incorporated**](http://gra-inc.com/).
  
