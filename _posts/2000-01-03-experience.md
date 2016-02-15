@@ -5,40 +5,40 @@ color: black
 fa-icon: briefcase
 ---
 
-#Experience
+# Experience
 
-###2015
+### 2015
 
-####Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
+#### Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
 
-####Research assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
+#### Research assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
 
-###2014
+### 2014
 
-####Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
+#### Data analyst intern at [**comScore, Inc.**](http://www.comscore.com/)
 
-###2013
+### 2013
 
-####Data analyst intern at [**Airline Reporting Corporation(ARC)**](https://www.arccorp.com/index.jsp)
+#### Data analyst intern at [**Airline Reporting Corporation(ARC)**](https://www.arccorp.com/index.jsp)
 
-###2012
+### 2012
 
-####Teaching Assistant at [**Systems and Information Engineering (SIE)**](http://www.sys.virginia.edu/) at [**University of Virginia**](http://www.virginia.edu/)
+#### Teaching Assistant at [**Systems and Information Engineering (SIE)**](http://www.sys.virginia.edu/) at [**University of Virginia**](http://www.virginia.edu/)
 
-####Graduated with Honor from **Liberty University** with a bachelor's degree in [**Mathematics**](http://www.liberty.edu/academics/arts-sciences/math/)
+#### Graduated with Honor from **Liberty University** with a bachelor's degree in [**Mathematics**](http://www.liberty.edu/academics/arts-sciences/math/)
 
-###2011
+### 2011
 
-####Business analyst intern at [**State Farm**](https://www.statefarm.com/)
+#### Business analyst intern at [**State Farm**](https://www.statefarm.com/)
 
-###2010
+### 2010
 
-####Office manager at [**Liberty University Student Care**](http://www.liberty.edu/studentaffairs/studentcare/)
+#### Office manager at [**Liberty University Student Care**](http://www.liberty.edu/studentaffairs/studentcare/)
 
-###2009
+### 2009
 
-####Math tutor at [**Liberty University**](http://www.liberty.edu/)
+#### Math tutor at [**Liberty University**](http://www.liberty.edu/)
 
-###2008
+### 2008
 
-####International trade intern at [**State Grid Corporation of China (SGCC)**](http://www.sgcc.com.cn/ywlm/index.shtml)
+#### International trade intern at [**State Grid Corporation of China (SGCC)**](http://www.sgcc.com.cn/ywlm/index.shtml)
