@@ -1,0 +1,20 @@
+ ---
+ title: "Research"
+ bg: '#C4E1FF'
+ color: black
+ fa-icon: pencil
+ ---
+ -
+ #Work & Research Interests
+ 
+ Jin is a Data Scientist at [**Federal Aviation Administration (FAA) Air Traffic Organization (ATO)**](http://www.faa.gov/) via [**GRA, Incorporated**](http://gra-inc.com/).
+ 
+ Her work and research interests include:
+ 
+ - Air Traffic Management Performance Modernization
+ - Data Automation and Integration
+ - Data Visualization and Communication 
+ - Machine Learning and Statistical Analysis
+ - Problem Detection and Project Initiation
+ 
+She is enjoying what she's doing while being a science fiction lover, marathon runner and Monty Pythonian.
