@@ -16,7 +16,7 @@ rouge: pygments
 
 ### content configuration ###
 title:       "Jin Li"
-keywords:    "Jin Li, uva"
+keywords:    "Jin Li, Data Scientist"
 description: "homepage"
 source_link: "http://just4jin.github.io"
 favicon:     "img/favicon.ico"
