@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-bg: '#dcf9ce'
+bg: '#e5ffe5'
 color: black
 fa-icon: briefcase
 ---
