@@ -6,6 +6,9 @@ fa-icon: briefcase
 ---
 
 # Experience
+### 2016
+
+#### Sr. Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
 
 ### 2015
 
