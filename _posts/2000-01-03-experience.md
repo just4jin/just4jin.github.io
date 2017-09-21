@@ -43,6 +43,4 @@ fa-icon: briefcase
 
 #### Math tutor at [**Liberty University**](http://www.liberty.edu/)
 
-### 2008
-
 #### International trade intern at [**State Grid Corporation of China (SGCC)**](http://www.sgcc.com.cn/ywlm/index.shtml)
