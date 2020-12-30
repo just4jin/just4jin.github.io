@@ -9,11 +9,11 @@ fa-icon: briefcase
 
 ### 2016
 
-#### Sr. Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
+#### Sr. Data Scientist at [**GRA Incorporated**](https://gra-inc.com)
 
 ### 2015
 
-#### Data Scientist at [**Federal Aviation Administration (FAA)**](http://www.faa.gov/)
+#### Data Scientist at [**GRA Incorporated**](https://gra-inc.com)
 
 #### Research assistant at [**Center for Large-Scale Computational Modeling (CLSCM)**](http://www.virginia.edu/CLSCM/)
 
